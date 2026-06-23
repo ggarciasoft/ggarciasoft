@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo García 👋
+# Hi, Gregory García Here
 
 I'm a full-stack software engineer passionate about building enterprise-grade applications, AI-powered workflows, and developer tools. I enjoy designing clean architectures, working across the full stack, and shipping products that solve real-world problems.
 
